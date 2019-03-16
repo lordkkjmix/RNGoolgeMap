@@ -1,6 +1,6 @@
 # RNGoolgeMap
 
-#EN
+##EN
 React Native Map components for iOS + Android
 
 This project is an update of [react-native-maps}(https://github.com/react-native-community/react-native-maps)
@@ -31,6 +31,7 @@ Composents React Native Map pour iOS + Android
 
 Ce projet est est une mise à jour de [react-native-maps}(https://github.com/react-native-community/react-native-maps)
 
+##FR
 
 ## Installation
 
